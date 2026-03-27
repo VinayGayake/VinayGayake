@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:vingayake@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/vinay-gayake-56231a342">💼 LinkedIn</a> •
-  <a href="https://github.com/VinayGayake">💻 GitHub</a>
+  <a href="mailto:vingayake@gmail.com"><b>📧 Email Me</b></a> •
+  <a href="https://www.linkedin.com/in/vinay-gayake-56231a342" target="_blank"><b>💼 LinkedIn</b></a> •
+  <a href="https://github.com/VinayGayake" target="_blank"><b>💻 GitHub</b></a> •
+  <a href="https://drive.google.com/file/d/1zQKba-59GpIl7OsOG__3fafE73d4peD3/view?usp=sharing" target="_blank"><b>📄 Resume</b></a>
 </p>
 
 ---
@@ -57,21 +58,14 @@
 ### 🧠 Mental Health Chatbot
 - Built using **Python + NLP**
 - Provides intelligent responses for mental wellness
-- Focus on **user interaction & accessibility**
-
----
 
 ### 📊 Olympic Data Analysis Dashboard
 - Built with **Power BI**
-- Visual insights into **medal trends & country performance**
-- Clean, interactive dashboards
-
----
+- Visual insights into medal trends
 
 ### 🚗 Car Rental System
-- Developed using **Java + Spring Boot + MySQL**
-- REST APIs for booking & management
-- Scalable backend architecture
+- Java + Spring Boot + MySQL
+- REST API based system
 
 ---
 
@@ -103,22 +97,20 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VinayGayake/VinayGayake/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/VinayGayake/VinayGayake/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🏆 Achievements & Goals
 
-- 🚀 Building strong foundation in **Software Engineering**
-- 📊 Becoming **Data Analyst / Backend Developer**
-- ☁️ Exploring **Cloud + AI integration**
-- 🎯 Goal: Work in a top product-based company
+- 🚀 Strong foundation in Software Engineering
+- 📊 Data Analyst / Backend Developer path
+- ☁️ Exploring Cloud + AI
+- 🎯 Target: Product-based company
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 *From writing "Hello World" to building real-world systems — learning never stops.*
-
----
+💡 From "Hello World" → Real-world applications 🚀
